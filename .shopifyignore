@@ -13,4 +13,4 @@ config/settings_data.json
 ehthumbs.db
 Thumbs.db
 
-#templates/*.json
+templates/*.json
